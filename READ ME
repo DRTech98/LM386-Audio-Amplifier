@@ -1,0 +1,15 @@
+This project involves using a 3W speaker and the LM386 audio chip. 
+
+The project incorporates an understanding of capacitive filtering, noise reduction, and the importance of logarithmic potentiometers vs linear.
+
+Many properties of op-amps that aren't necessarily covered in university are essential when choosing an op-amp for audio purposes. 
+
+These properties include slew rate, gain band-width, distortion, harmonic distortion, voltage and power ratings all of which need to be considered to have an op amp produce ample sound. 
+
+While any op-amp could technically get the job done, the sound quality and loudness of the speaker simply won't compare to a high quality op-amp or an op-amp specifically designed for audio. 
+
+This circuit was created to obtain a greater understanding of audio electronics, filtering, and using op-amps in a practical application.
+
+Understanding the block diagram is also crucial to understand exactly how the circuit operates within the given paramteres. Fundental knoledge of NPN and PNP transistors and how they operate is needed.
+
+This project is currently a work in progress, there is a fully working breadboard prototype and a fully working PCB will be created with an enclosure. 
